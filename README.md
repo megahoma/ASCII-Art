@@ -2,8 +2,10 @@
 Creation of ASCII Art
 
 ## Usage:
-`art(file_input, symbols_used, file_output)`
-
+```
+pip install Pillow
+art(file_input, symbols_used, file_output)
+```
 
 ### Example:
 ```
