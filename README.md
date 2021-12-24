@@ -12,3 +12,5 @@ art(file_input, symbols_used, file_output)
   from render import art
   art('test2.jpg', symbol='rgb', output='art.txt')
 ```
+
+### Coded by [megahoma](https://github.com/megahoma)
